@@ -1,0 +1,2 @@
+/usr/bin/ar qc libftp_server_functions.a CMakeFiles/ftp_server_functions.dir/src/ftp_server_functions.cpp.o
+/usr/bin/ranlib libftp_server_functions.a

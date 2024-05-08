@@ -1,0 +1,47 @@
+Computer_Network-Huang_Qun-2023-Fall-Final_Exam_Summary.pdf
+build
+mooc
+notes_from_github
+slides
+textbooks
+.DS_Store
+
+# Prerequisites
+*.d
+
+# Build directory
+build
+build/*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.vscode/
+camke-*-build/

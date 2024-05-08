@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ftp_server.dir/src/ftp_server.cpp.o -o ftp_server  libftp_server_functions.a libftp_server_utils.a 

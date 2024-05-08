@@ -1,0 +1,8 @@
+/root/workspace/2023-lab1-myftp-EmptyBlueBox/bin/CMakeFiles/ftp_client_functions.dir
+/root/workspace/2023-lab1-myftp-EmptyBlueBox/bin/CMakeFiles/ftp_client_utils.dir
+/root/workspace/2023-lab1-myftp-EmptyBlueBox/bin/CMakeFiles/ftp_client.dir
+/root/workspace/2023-lab1-myftp-EmptyBlueBox/bin/CMakeFiles/ftp_server_functions.dir
+/root/workspace/2023-lab1-myftp-EmptyBlueBox/bin/CMakeFiles/ftp_server_utils.dir
+/root/workspace/2023-lab1-myftp-EmptyBlueBox/bin/CMakeFiles/ftp_server.dir
+/root/workspace/2023-lab1-myftp-EmptyBlueBox/bin/CMakeFiles/edit_cache.dir
+/root/workspace/2023-lab1-myftp-EmptyBlueBox/bin/CMakeFiles/rebuild_cache.dir
