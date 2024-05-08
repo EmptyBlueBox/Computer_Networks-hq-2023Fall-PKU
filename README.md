@@ -1,4 +1,4 @@
-# Game Theory Repo
+# Computer Networks Repo
 
 This is a repo for computer networks course in Peking University, 2023 Fall, by Prof. Huang Qun.
 
